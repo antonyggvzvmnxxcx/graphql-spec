@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "cspell": "5.3.12",
-    "nodemon": "2.0.7",
+    "nodemon": "2.0.22",
     "spec-md": "3.0.2"
   }
 }
